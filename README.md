@@ -19,7 +19,7 @@
 
 <h2 align="left">🚀 Featured Projects:</h2>
 
-- **[Campus+ CRM](http://campus.kumaraguru.in/)**: Created a comprehensive CRM system for managing institutional operations, including hostel 
+- **[Campus+ CRM](http://campus.kumaraguru.in/)**: Created a CRM system for managing institutional operations, including hostel 
 management.Enhanced the transportation management system with features like bus allocation, real-time 
 bus tracking, and live notifications for students.
 - **[Admissions Portal](http://admissions.kct.ac.in/)**: Designed and implemented a dynamic admissions platform, efficiently processing over 20,000 
